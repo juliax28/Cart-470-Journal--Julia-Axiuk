@@ -9,7 +9,7 @@ Our Figjam board ended up being composed of multiple sections, which I will cove
 
 
 Section 1 - “Team”
-![](media/figjam_team.png)
+![](/media/figjam_team.png)
 
 
 First we began by discussing our strengths and weaknesses as members, trying to decide who would most likely be taking on the roles in a project like this. At the same time, this also got us thinking about the types of work that would need to be done, and so we created sections that quickly listed the skills and tools we believed would be necessary for creating the software.
