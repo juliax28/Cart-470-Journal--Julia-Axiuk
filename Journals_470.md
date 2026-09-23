@@ -2,7 +2,7 @@
 As a first step, my team (which as of right now consists of Nat, Olivia, Hanif, Nolan and myself) began by taking the time to look over the project that we were given. This is the  Game Design Education Software  with Pippin Barr, and has challenged us with creating an educational software that would allow someone with no coding experience to manipulate and create variations to a pre-existing simple game. 
 
 
-As we were encouraged to begin the brainstorming period of the class, we opted to share a ‘Figjam” file where we began to jot down any ideas we had. Each with our colors, we laid out digital sticky notes with quickly-written thoughts on what a project like this could look like (without shying away from Figjam’s sticker options, of course).
+As we were encouraged to begin the brainstorming period of the class, we opted to share a "Figjam" file where we began to jot down any ideas we had. Each with our colors, we laid out digital sticky notes with quickly-written thoughts on what a project like this could look like (without shying away from Figjam’s sticker options, of course).
 
 
 Our Figjam board ended up being composed of multiple sections, which I will cover individually.
