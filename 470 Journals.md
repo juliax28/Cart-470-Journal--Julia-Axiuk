@@ -1,4 +1,4 @@
-﻿Journal 01 - 09/21/2026 - Brainstorming and Planning
+## ﻿Journal 01 - 09/21/2026 - Brainstorming and Planning
 As a first step, my team (which as of right now consists of Nat, Olivia, Hanif, Nolan and myself) began by taking the time to look over the project that we were given. This is the  Game Design Education Software  with Pippin Barr, and has challenged us with creating an educational software that would allow someone with no coding experience to manipulate and create variations to a pre-existing simple game. 
 
 
@@ -8,21 +8,21 @@ As we were encouraged to begin the brainstorming period of the class, we opted t
 Our Figjam board ended up being composed of multiple sections, which I will cover individually.
 
 
-Section 1 - “Team”
+### Section 1 - “Team”
 ![](media/figjam_team.png)
 
 
 First we began by discussing our strengths and weaknesses as members, trying to decide who would most likely be taking on the roles in a project like this. At the same time, this also got us thinking about the types of work that would need to be done, and so we created sections that quickly listed the skills and tools we believed would be necessary for creating the software.
 
 
-Section 2 - “Output”
+### Section 2 - “Output”
 ![](media/figjam_output.png)
 
 
 Once we got a vague idea of the type of project we’d be working on, we began deciding what we could possibly have as a final goal. As a team of five and with Pippin Barr’s suggestion for a final output seemingly being anything from an interactive Figma presentation to a working program, we decided that it would be more interesting to aim for the latter. With this came more questions than answers, however. Our main concern was that we still don’t know who our target audience is supposed to be, and this fact (that we can really only get from Pippin) will be a defining factor in which of the directions we finally go towards.
 
 
-Sections 3 - “Inspo”
+### Sections 3 - “Inspo”
 ![](media/figjam_inspo.png)
 
 
@@ -35,7 +35,7 @@ Olivia brought up both gameMaker and RPG maker, which also aim at ‘simplifying
 Finally, we also knew it would be important to reference Pippin’s own work, as he has an extensive portfolio featuring many ‘altered/varied’ versions of popular simple games.
 
 
-Section 4 - “Feedback”
+### Section 4 - “Feedback”
 
 
 ![](media/figjam_feedback.png)
