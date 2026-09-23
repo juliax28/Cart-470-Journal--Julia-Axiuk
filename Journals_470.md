@@ -9,7 +9,7 @@ Our Figjam board ended up being composed of multiple sections, which I will cove
 
 
 
-### Section 1 - “Team”
+### Section 1 - Team
 ![test](media/figjam_team.png)
 
 
