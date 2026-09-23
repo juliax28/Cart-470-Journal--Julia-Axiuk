@@ -1,4 +1,4 @@
-## ﻿Journal 01 - 09/21/2026 - Brainstorming and Planning
+## Journal 01 - 09/21/2026 - Brainstorming and Planning
 As a first step, my team (which as of right now consists of Nat, Olivia, Hanif, Nolan and myself) began by taking the time to look over the project that we were given. This is the  Game Design Education Software  with Pippin Barr, and has challenged us with creating an educational software that would allow someone with no coding experience to manipulate and create variations to a pre-existing simple game. 
 
 
