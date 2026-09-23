@@ -44,7 +44,7 @@ Finally, we also knew it would be important to reference Pippin’s own work, as
 During the entire discussion, we made sure to take notes of which questions we wanted to ask our client when we saw him next week. We were mostly interested in the aforementioned “target audience” of the project, as well as some more personal questions that would allow us to hopefully better understand his design philosophy, and allow us to create something that aligns with it in return.
 
 
-Final Thoughts
+### Final Thoughts
 
 
 After presenting, it was pointed out that we have a large advantage when approaching this project: all of us in the class learnt coding in an academic setting, and can use our experience of what we “wished we could have had” to help guide our choices. I’m looking forward to seeing how our varying skills and creative ideas shape this project!
