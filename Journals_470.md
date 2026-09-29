@@ -67,7 +67,7 @@ As my own personal goal, I knew I wanted to really focus on the ‘unconventiona
 To do this, I wanted to start by breaking the standard rectangular space that most software assumes since, of course, our screens are rectangular. I thought, then, well is there anything that already does that? The answer I came up with was … yes! Early 2000-2010s window media/audio players were often wacky, strange shapes, but still maintained a level of functionality that allowed the user to use the button interface to play/stop/fastforward and sometimes even manipulate the audio further.
 
 ![](media/mediaPlayer01.jpg)
-![](media/mediaPlayer02jpg)
+![](media/mediaPlayer02.jpg)
 ![](media/mediaPlayer03.jpg)
 
 ### Photo-bashes
