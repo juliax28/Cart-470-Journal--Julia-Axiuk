@@ -82,9 +82,9 @@ The various buttons and levers, while taken from photos of media players, would 
 
 ## Journal 03 - 10/06/2026
 
-![](media/meetingNotes01.JPEG)
-![](media/moodBoard01.JPEG)
-![](media/userFlow.JPEG)
-![](media/wireFrame01.JPEG)
-![](media/visualPitches01.JPEG)
-\
+![](media/meetingNotes01.JPG)
+![](media/moodBoard01.JPG)
+![](media/userFlow.JPG)
+![](media/wireFrame01.JPG)
+![](media/visualPitches01.JPG)
+
