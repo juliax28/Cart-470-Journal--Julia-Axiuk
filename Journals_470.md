@@ -82,9 +82,23 @@ The various buttons and levers, while taken from photos of media players, would 
 
 ## Journal 03 - 10/06/2026
 
+### The Group Meeting + Meeting Notes
+After the first milestone meeting last week, our team decided it would be essential to have a meeting where we decided on the next steps to take in the design of the software. We knew we needed several things in order to progress: A user flow, wireframe and a more solid grasp on the aesthetic direction we wished to take. 
+
+In order to better organize ourselves, we added onto the shared Figjam file, agreeing to each share our work from the week there so that we could easily flip between each-others progress. We added a section here where we would take note of the discussions during our meetings, and where we would assign what cards would go to who on the Fizzy Kanban. 
+Each member was assigned a task, as well as the responsibility to add to a shared 'Moodboard" that would be ongoing, where we are to add inspiration. For me, the results of this meeting was that I would be responsible for the visual pitches, going off of what we presented last week. We decided to stick to the wacky/unconventional design language. I was to work with Olivia on this, as we contributed the most last week to the brainstorming of the visual aspects.
 ![](media/meetingNotes01.jpg)
+### The Moodboard
 ![](media/moodBoard01.jpg)
+This is the aforemnetioned moodboard, where Olivia and I added some of the inspiration that we pulled from creating the visual pitches. As we looked over last weeks ideas, we found there was a possible overlap between our two designs, deciding to mix my "2000s audio player" inspirations with her "wacky retro" vibe, culminating into one design idea that would lean more towards a retro game look. This is what we explained in the images added onto the board. As you can see, some other images were also added by Nolan, instead suggesting leaning more into the surreal and possibly incoporating a 'digital assistant' sort of character.
 ![](media/userFlow.jpg)
+### Wireframe and user Flow
+Nat was responsible for the above user flow, which was then handed over to Hanif, who worked largely on the wireframe. The two collaborated in order to have the two steps work well with one another and create a cohesive idea for /how/ this software would theoretically work interface wise.
 ![](media/wireFrame01.jpg)
+Above is the Wireframe made by Hanif.
 ![](media/visualPitches01.jpg)
+Finally, after looking at Hanif's wireframe and Nat's work ont the User Flow, Olivia and I worked on creating 3 varying visual pitches. For the designs, we focused on the 'main' page that the user would be using, that is to say the "game Editing" page. Referencing our other team member's work, we tried to imagine how these different tools and pages would be accessed while also pushing the imagery into an unconventional direction. Our first one leaning heavily into the aforementioned retro-game style, the second more into the original '2000s' style, and the third into the 'Kid-Pix' design that Pippin mentioned during our first meeting.
+
+### Final Notes
+Unfortunately, we were having a difficult time getting hold of Pippin, and had to continue with our design without his input. However, we are hoping to arrange two more meetings with him before the midterm. So far, the unconventional elements have been enjoyable to experiment with, and once the visual style is confirmed, it will be even more itneresting to start implementing some of the functionality.
 
