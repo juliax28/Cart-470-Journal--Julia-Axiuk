@@ -80,4 +80,11 @@ With these ideas in mind, I continued by doing some photo-bashing. Without conce
 
 The various buttons and levers, while taken from photos of media players, would instead correspond to various attributes of the chosen game, and would theoretically vary depending on the game chosen. I also like the idea of some of the controls being obvious, but others being more ambiguous, such as the ‘chaos’ button in the second photo-bash, which imply an unexpected outcome. This would, in theory, force players to interact with the media out of curiosity, and create some surprising results, without worrying too much about making the game ‘good’.
 
+## Journal 03 - 10/06/2026
 
+![](media/meetingNotes01.JPEG)
+![](media/moodBoard01.JPEG)
+![](media/userFlow.JPEG)
+![](media/wireFrame01.JPEG)
+![](media/visualPitches01.JPEG)
+\
