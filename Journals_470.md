@@ -102,3 +102,30 @@ Finally, after looking at Hanif's wireframe and Nat's work ont the User Flow, Ol
 ### Final Notes
 Unfortunately, we were having a difficult time getting hold of Pippin, and had to continue with our design without his input. However, we are hoping to arrange two more meetings with him before the midterm. So far, the unconventional elements have been enjoyable to experiment with, and once the visual style is confirmed, it will be even more itneresting to start implementing some of the functionality.
 
+## Journal 04 - 09/20/2026
+
+### UI Design Shift
+
+Since Olivia and I have done the UI designs and we've taken a look of the wireframe as a group, there was some changes in the artistic direction that we wished to go in. On one hand, we liked many of the 'wacky' aspects of the design pitches that Olivia and I had come up with, but ultimately it was decided that having so much visual clutter might only overwhelm the users. 
+Despite this, it was also said that the designs, particularly the arcade-based one, was interesting due to its ability to evoke the sense of 'playing' a game while making one. This was one of the key points that Pippin had expressed: the software must bring the 'game' back into 'game-making'.
+With this in mind, we decided to shift the artistic direction into one that was, as we described it, a nintendo-based UI that evoked the same fun as the old-style Nintendo UIs from the 2000s, but also included the same feeling of simplicity. Moreover, Pippin had expressed that the software/website is supposed to mainly be directed at his students. With the target audeience being roughly in our age group, we can confidently say that this sort of design language is nostalgic game-wise and will hopefully put the target audience into a 'game-mindset' as the look and feel of the website evokes these nostlagic feelings. 
+After this conversation on the 7th of October, it was decided that as the others worked on an interactive wireframe, Olivia and I would work towards creating a new UI design. 
+The results are shown below, and are based on the wireframe that was developed the week prior.
+![](media/newUI01.png)
+![](media/newUI02.png)
+![](media/newUI03.png)
+![](media/newUI04.png)
+![](media/newUI05.png)
+
+### Meeting with Pippin
+
+On the 14th of October we finally had a meeting with Pippin, durng which we discussed the direction of the project and future expectations as we approach the midterm. Overall, Pippin gave us very positive feedback concerning the artistic direction of the project (which he agreed was an improvement from the original designs). He was also impressed by our idea of including node-based editing, saying that including this sort of editing opens up many more avenues for radical experimentation (our key-words, here!). 
+
+However, he also reminded us that our choices in which tools we impliment and what we allow said tools to do will greatly affect the imaginations of the people using the software. Going off of this, Pippin offered many examples of books he recommended we give a quick look at, which could influence somwe of our decisions going forward and give us some new perspective in our creative process. He also recommended we take a look at existing game engines as reference.
+
+### After the Meeting and Midterm Plans
+After our meeting, we deicded to divide the research amongst each of us, allowing each team member to choose a book + Game Engine to do some researh on so that the week of the 21st we can come together to discuss our findings. Personally, I chose to look at the "Game Feel" book by Steve Swink, and to analyze how Unreal Engine allows editing.
+
+As for Midtern Plans, we decided that we wanted to have a video prototype done by the midtern meeting with Pippin (that is to say, the week of the 28th) which would feature a almost fully-finished Figma Prototype edited into video footage to visually shows what working in the software/website would look like. After this, or in parralel should we have the time, we also decided it would be beneficial to start on our 'playable protoype'. Moreover, we also decided that we want to have something to get user feedback from as soon as possible. For this, we will likely use a combination of the Figma protoype and the video prototype.
+
+That's all for now!
