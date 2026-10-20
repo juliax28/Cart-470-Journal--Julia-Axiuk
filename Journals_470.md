@@ -102,7 +102,7 @@ Finally, after looking at Hanif's wireframe and Nat's work ont the User Flow, Ol
 ### Final Notes
 Unfortunately, we were having a difficult time getting hold of Pippin, and had to continue with our design without his input. However, we are hoping to arrange two more meetings with him before the midterm. So far, the unconventional elements have been enjoyable to experiment with, and once the visual style is confirmed, it will be even more itneresting to start implementing some of the functionality.
 
-## Journal 04 - 09/20/2026
+## Journal 04 - 10/20/2026
 
 ### UI Design Shift
 
