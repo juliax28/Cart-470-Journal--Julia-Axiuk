@@ -124,8 +124,28 @@ On the 14th of October we finally had a meeting with Pippin, durng which we disc
 However, he also reminded us that our choices in which tools we impliment and what we allow said tools to do will greatly affect the imaginations of the people using the software. Going off of this, Pippin offered many examples of books he recommended we give a quick look at, which could influence somwe of our decisions going forward and give us some new perspective in our creative process. He also recommended we take a look at existing game engines as reference.
 
 ### After the Meeting and Midterm Plans
-After our meeting, we deicded to divide the research amongst each of us, allowing each team member to choose a book + Game Engine to do some researh on so that the week of the 21st we can come together to discuss our findings. Personally, I chose to look at the "Game Feel" book by Steve Swink, and to analyze how Unreal Engine allows editing.
+After our meeting, we decided to divide the research amongst each of us, allowing each team member to choose a book + Game Engine to do some researh on so that the week of the 21st we can come together to discuss our findings. Personally, I chose to look at the "Game Feel" book by Steve Swink, and to analyze how Unreal Engine allows editing.
 
 As for Midtern Plans, we decided that we wanted to have a video prototype done by the midtern meeting with Pippin (that is to say, the week of the 28th) which would feature a almost fully-finished Figma Prototype edited into video footage to visually shows what working in the software/website would look like. After this, or in parralel should we have the time, we also decided it would be beneficial to start on our 'playable protoype'. Moreover, we also decided that we want to have something to get user feedback from as soon as possible. For this, we will likely use a combination of the Figma protoype and the video prototype.
 
 That's all for now!
+
+
+## Journal 05 - 10/27/2026
+
+### New Features and Figma Work
+Continuing from where we left off, we knew that we needed to add more functionality to our Figma prototype if we wanted to demonstrate the full functionaltiy of our software during our video prototype. After some discussion, we knew we needed the following: A demonstration of the standard workflow, the "quick editor" functionality and, most importantly, the 'node' editor. The node editor, being one of the more foreign concepts introduced into this sort software, would need particualr attention in order for us to properly communicate it's full potential to our test users (and Pippin!). 
+Moreover, Olivia reminded us that we also wanted to add a "randomize' button that would adjust all the sliders in the 'quick' editor to random variables for particualrly surprising results. She also added a 'draw' button that would allow the user to make marking on their game that could act as barriers or new items.
+Hanif and I focused on adding the other aforementioned functionality, with Hanif focusing mostly on the demonstration of the node editor. I, on the other hand, rearranged some of the pages to streamline the user flow, and removed any button redundancies in the UI. Olivia and I were also resonosible for the stylization of some of the button interaction (Hanif worked on this equally), as well as some of the UI animations (such as the "rotating" effect when selecting a game).
+The gif included shows the standard workflow, the node editor, quick editor and other features. It also shows the full interactability and stylization of the interactable elements.
+![](media/Prototype_GIF01.gif)
+### The Video Prototype
+Next, we began work on the video prototype, which would act as a sort of 'ad' of the concept, explaining quickly the ideas and potential of a program like this. Olivia and I worked on this, combining screen-recorded scenes from Figma with extra footage from After-Effects. We hope to present both of these prototypes to Pippin tomorrow (our midterm checkup!) in order to truly finalize the functionality and design. The hope is to also establish a scale for the final project outcome for the end of the semester.
+(INSERT VIDEO PROTOTYPE HERE)
+The full video can be watched on here (YOUTUBE LINK)
+### Midterm Reflection and Moving Forward
+Moving forward, I would like to get the video and figma prototypes to test users, in order to get more feedback before we move on to the next phase of the project. However, as of right now, it is difficult to know what that 'next phase' will be without Pippin's input. Of course, these questions will be answered tomorrow. As of right now, I feel quite satisfied with our ideas and our progress and would like to see the project evolve into a more complex one. As was mentioned in past journals, having something of a more close-to-concept interactable prototype would be interesting. This could entail having one of the games (probably pong) recreated with some of the editing capabilities in a P5 project. 
+
+Next update will be after the midterm client meeting and leading up to our midterm presentation :)
+
+
