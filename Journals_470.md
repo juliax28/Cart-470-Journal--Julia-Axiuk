@@ -141,8 +141,7 @@ The gif included shows the standard workflow, the node editor, quick editor and 
 ![](media/Prototype_GIF01.gif)
 ### The Video Prototype
 Next, we began work on the video prototype, which would act as a sort of 'ad' of the concept, explaining quickly the ideas and potential of a program like this. Olivia and I worked on this, combining screen-recorded scenes from Figma with extra footage from After-Effects. We hope to present both of these prototypes to Pippin tomorrow (our midterm checkup!) in order to truly finalize the functionality and design. The hope is to also establish a scale for the final project outcome for the end of the semester.
-(INSERT VIDEO PROTOTYPE HERE)
-The full video can be watched on here (YOUTUBE LINK)
+The full video can be watched on [HERE](https://youtu.be/kcf4vYF23dc?si=tbGoQravt8feCUH6)
 ### Midterm Reflection and Moving Forward
 Moving forward, I would like to get the video and figma prototypes to test users, in order to get more feedback before we move on to the next phase of the project. However, as of right now, it is difficult to know what that 'next phase' will be without Pippin's input. Of course, these questions will be answered tomorrow. As of right now, I feel quite satisfied with our ideas and our progress and would like to see the project evolve into a more complex one. As was mentioned in past journals, having something of a more close-to-concept interactable prototype would be interesting. This could entail having one of the games (probably pong) recreated with some of the editing capabilities in a P5 project. 
 
