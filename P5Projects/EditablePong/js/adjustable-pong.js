@@ -69,7 +69,7 @@ function updateLeftHeight() {
 }
 
 function updateRightHeight() {
-    rightPaddleHeight = leftHeightSlider.value();
+    rightPaddleHeight = rightHeightSlider.value();
 }
 
 function updateBallSize() {
