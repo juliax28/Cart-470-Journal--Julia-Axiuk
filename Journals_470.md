@@ -147,4 +147,27 @@ Moving forward, I would like to get the video and figma prototypes to test users
 
 Next update will be after the midterm client meeting and leading up to our midterm presentation :)
 
+## Journal 06 - 11/03/2026
+
+### 10/28/2026 Midterm Meeting With Pippin
+
+Last week we had our second update with Pippin, where we showed him our progress so far. This included the video prototype as well as the figma workflow that we have developed to this point. Overall, the feedback was largely positive. Pippin expressed an interest in the fact that we focused more on the visual and UI aspects of the project, which he explained was something he rarely did, and told us that these elements did, in fact, give the theoretical final product a strong identity and "feeling" that would contribute positively to the user experience. He also expressed an interest in what we presented mechanically, stating that the combination of sliders and node editing was the right direction to continue towards.
+
+However, Pippin did also express some small criticisms or things he'd like to see explored more. Firstly, he mentioned a thought he had concerning the UI design, saying "Spending time looking at the Wii-inspired UI does make me wish/wonder about it being less controlled and "proper" - no need to tear it down or anything, but I find myself wondering what a more chaotic interface could look like and whether that might encourage playfulness in ways a more classy/calm UI might not? Something to reflect on". 
+
+The reason we had gone with this UI design was because of the fact that this sort of 'clean' design language does, in fact, register as 'playful' and 'creative' due to our generation's nostalgia and familiarity with Nintendo's older work. However, it is interesting to see this design langiage interpeted differently from someone of a previous generation. Therefore, we will probably have to invest a little bit more time into nudging the UI into a direction that is 'less clean'. One option I mentioned was to potentially 'break up' the monotony of the shapes in the UI by having the parts of the UI broken up into irregular shapes, like the image below.
+![](media/miku.png)
+
+I also do like the idea of potentially introdicuing a "mixed media" into the UI. This wouldn't be a comeplte overhaul, but instead a few small adjustments that might make a big difference.
+
+Secondly, Pippin also explained that, since we have developed the flow and 'experience' to a good degree, it would be nice if we could start experimenting with the technical side a little but more. Olivia and I decided to take on this task since the others expressed less confidence in using P5. During the meeting, Pippin demonstrated a small bit of code that we could begin with, and some of the experimentation that he would like to see. Although he doesn;t expect for us to even include the node editing at all (which I agree, would probably extend beyond the scope of the class) including a P5 project where one can test the 'essence' of the program would be favorable.
+
+We will be developing off of something the client and the team worked on together during the meeting. It is really jsut a few sliders that alter parameters of the game, but even just these parameters allow for some major changes to "Pong". Olivia and I will add more editable variables and will add simialr visuals for it to look cohesive with out Figma prototype.
+
+### Midterm Presentation
+
+So far, we have several things we'd liek to go over for the presentation. Of course there is the mandatory topics we will have to go over, but we will also be shpwing our video prototype and our Figma protoype in order to hopefully get feedback from the audience. Our goal is to have the technical prototype done for next week, when we will have another meeting with Pippin.
+
+
+
 
