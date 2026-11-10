@@ -158,7 +158,7 @@ However, Pippin did also express some small criticisms or things he'd like to se
 The reason we had gone with this UI design was because of the fact that this sort of 'clean' design language does, in fact, register as 'playful' and 'creative' due to our generation's nostalgia and familiarity with Nintendo's older work. However, it is interesting to see this design langiage interpeted differently from someone of a previous generation. Therefore, we will probably have to invest a little bit more time into nudging the UI into a direction that is 'less clean'. One option I mentioned was to potentially 'break up' the monotony of the shapes in the UI by having the parts of the UI broken up into irregular shapes, like the image below.
 ![](media/miku.png)
 
-I also do like the idea of potentially introdicuing a "mixed media" into the UI. This wouldn't be a comeplte overhaul, but instead a few small adjustments that might make a big difference.
+I also do like the idea of potentially introducing a "mixed media" element into the UI. This wouldn't be a comeplte overhaul, but instead a few small adjustments that might make a big difference.
 
 Secondly, Pippin also explained that, since we have developed the flow and 'experience' to a good degree, it would be nice if we could start experimenting with the technical side a little but more. Olivia and I decided to take on this task since the others expressed less confidence in using P5. During the meeting, Pippin demonstrated a small bit of code that we could begin with, and some of the experimentation that he would like to see. Although he doesn;t expect for us to even include the node editing at all (which I agree, would probably extend beyond the scope of the class) including a P5 project where one can test the 'essence' of the program would be favorable.
 
@@ -168,6 +168,22 @@ We will be developing off of something the client and the team worked on togethe
 
 So far, we have several things we'd liek to go over for the presentation. Of course there is the mandatory topics we will have to go over, but we will also be shpwing our video prototype and our Figma protoype in order to hopefully get feedback from the audience. Our goal is to have the technical prototype done for next week, when we will have another meeting with Pippin.
 
+## Journal 07 - 11-10-2026
 
+### Presentation Reflection
 
+Last week's midterm presentation went fairly well, and we were happy to hear some positive feedback from the students in the class regarding what was essentially a "project pitch". Mostly, we were told that the UI was very engaging, and that the design language felt both nostlagic and recalled back to times of "experimental flash games". It was interesting to hear our peer's reactions to our "techno-zen" design style and have them describe it as recalling to times that were very experimental, whereas Pippin was concerned with the aesethtics being 'too clean' for his liking, and made him worried about it not inspiring the creativity he wanted. Of course, we did go ahead and listen to Pippin's feedback, but this was definently a reminder that design can be interpeted comepletely differently depending on the generation of the person interacting with it! There was, however, also some questionning on how our theoretical software was different from other similar ones that focused on game-making. To this, I explained that ours does really enforce the sort of crazy experimentation that will let the user make soemthing 'broken' whereas other softwares focus much more of creating something 'good'. Despite, my answer, this did get me thinking that maybe it would've been better if we emphasized this fact during the presentation.
+
+### New Design
+In the end, Olivia and I did go ahead and start re-thinking the UI design slightly. We didn't want to focus on a comeplete overhaul, since visuals are in the end only a portion of the project, but we did incorporate some of the aforementioned qualities I mentioned in lat week's journal. This would include more irregular shapes and some 'mixed media' elements.
+![](media/NewDesign02.png)
+Pippin was happy with these slight alterations, and so we will be going ahead to apply these changes to the rest of the pages.
+
+### The Technical Prototype
+We finally began with the technical prototype, which Olivia I based off of the work Pippin began in a previous meeting. We added the ability to add more balls to the base Pong game, make them go more quickly on their X and Y axis, and adjust the size of the individual balls. As a group, we agreed that each of us would take turns adding to the game. Once Olivia and I had done this, Hanif added some HTML to label the sliders, adding a button outside of the canvas in order to "add balls" to the game and also fixed a coding issue we had (which caused all the balls to move together instead of individually).
+
+Here is the link to the 'github pages' page!
+https://haniflearnscoding.github.io/CART470Software/index.html
+
+Going forward, our goal is to add as many features as possible to the P5 before giving it to a test audience (finally!) while hopefully implementing more detailed visual elements as well.
 
