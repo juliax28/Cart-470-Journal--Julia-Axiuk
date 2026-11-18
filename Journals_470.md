@@ -191,7 +191,7 @@ Going forward, our goal is to add as many features as possible to the P5 before 
 
 ### Client Meeting
 
-Last week's client meeting was quite eye-opening, as we had a chance to really sit down and discuss in person with Pippin about our progress so far. Although he said he was happy with a lot of our work so far, he also emphasized how our group may have strayed too far into focusing on delivering a finished product rather than focusing ont he experimentation aspect of the course. We admitted that we honestly misunderstood the focus which is more on prototyping rather than creating a final deliverable. This was very eye-opening and allowed us to shift our focus back to the experimentation phase from the beginning of the course, which we moved on from too quickly. Moreover, we recieved feedback from our midterm which confirmed this, as some of our feedback consisted of us 'moving on' without consulting Pippin when he was difficult to reach, when instead tead we shoudl've taken our time int he experimentaion phase instead of rushing forward. 
+Last week's client meeting was quite eye-opening, as we had a chance to really sit down and discuss in person with Pippin about our progress so far. Although he said he was happy with a lot of our work so far, he also emphasized how our group may have strayed too far into focusing on delivering a finished product rather than focusing on the experimentation aspect of the course. We admitted that we honestly misunderstood the focus which is more on prototyping rather than creating a final deliverable. This allowed us to shift our focus back to the experimentation phase from the beginning of the course, which we moved on from too quickly. Moreover, we recieved feedback from our midterm which confirmed this, as some of our feedback consisted of us 'moving on' without consulting Pippin when he was difficult to reach, when instead we shoudl've taken our time in the brainstorming segment instead of rushing forward. 
 
 However, as was previously stated, this conversation really did shift us back on track, and we decided (with Pippin) we would not have a 'final deliverable' but rather many concepts that we are going to display all together.
 
@@ -199,7 +199,7 @@ However, as was previously stated, this conversation really did shift us back on
 
 Unsurprisingly, Pippin also emphasized getting /weirder/ with our concepts, and we discussed for a while what 'weirder' meant. Essentially, Pippin wanted more elements of the unexpected, pointing to games like 'The Sims' which have an almost random and odd feel to it that surprises the player. Specifically, the 'bulldoze lot' tool. As a group, we decided it would be best if we split off for the next week to let each of us experiment on our own paths, so that we can reconvene again the week after, all with our own findings.
 
-I found this to be very fun, as the others also shared their work as ther week went on. Nolan came up with the idea of using hand gestures to control parts of the game as well as the concept of 'tilting' the screen.
+I found this to be very fun, as it was interesting to see some of the progress the others made at the end of the week Nolan came up with the idea of using hand gestures to control parts of the game as well as the concept of 'tilting' the screen.
 ![](media/Nolan.jpg)
 Hanif continued to add more and more functionality to our already working prototype. (link HERE!: https://haniflearnscoding.github.io/CART470Software/index.html )
 ![](media/WP02.png)
@@ -208,7 +208,7 @@ nice!
 
 Nat shared with us their research document, which Hanif referenced in some of his work on changing the layout on the working prototype.
 
-Olivia and I came up with more radical concepts, veering further fro our orignal idea in hopes of coming back with something interesting. Olivia focused on a new visual design and also one that incorporated the idea of having the physical self ot he user control some aspects of the game, such as facial expressions, hand gestures etc., this can be seen in her Figma design.
+Olivia and I came up with more radical concepts, veering further from our orignal idea in hopes of coming back with something interesting. Olivia focused on a new visual design and also one that incorporated the idea of having the physical self of the user control some aspects of the game, such as facial expressions, hand gestures etc., this can be seen in her Figma design.
 
 ![](media/new_concept_z.png)
 
@@ -216,7 +216,7 @@ Finally... there's me!
 
 ## My Progress
 
- Personally, I focused on coming up with something that leaned into Pippin's want for something odd, and I ended up with a concept that was inspired by the idea of 'fate'. This concept starts the player off by getting handed 3 tarot cards. As they edit, they can choose to use these tarot cards, which each reveal a new editable variable, and warp the game they are making. Each tarot card can interact differently with one-another as well, bringing the 'unexpected' aspect into the equation. However, once a plater chooses a card, they cannot reverse it. They must either try to 'fight against fate' to ge their game back to where it was, or accept it and create something totally new.
+ Personally, I focused on coming up with something that leaned into Pippin's want for something odd, and I ended up with a concept that was inspired by the idea of 'fate'. This concept starts the player off by getting handed 3 tarot cards. As they edit, they can choose to use these tarot cards, which each reveal a new editable variable, and warp the game they are making. Each tarot card can interact differently with one-another as well, bringing the 'unexpected' aspect into the equation. However, once a player chooses a card, they cannot reverse it. They must either try to 'fight against fate' to get their game back to where it was, or accept it and create something totally new.
 
  ![](media/new.gif)
 
