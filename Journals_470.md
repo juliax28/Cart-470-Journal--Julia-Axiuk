@@ -220,5 +220,7 @@ Finally... there's me!
 
  ![](media/new.gif)
 
-(gif is a little small... I apologize)
+(gif is a little small... I apologize. Here is the link to the video on Google Drive.
+
+https://drive.google.com/file/d/1hnBSRK4r-dMbEA5N5mOoLfWhs6Z-FWq7/view )
  That's it for now!
