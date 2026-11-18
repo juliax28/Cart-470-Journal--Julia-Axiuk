@@ -213,10 +213,12 @@ Olivia and I came up with more radical concepts, veering further fro our orignal
 ![](media/new_concept_z.png)
 
 Finally... there's me!
- ## My Progress
+
+## My Progress
 
  Personally, I focused on coming up with something that leaned into Pippin's want for something odd, and I ended up with a concept that was inspired by the idea of 'fate'. This concept starts the player off by getting handed 3 tarot cards. As they edit, they can choose to use these tarot cards, which each reveal a new editable variable, and warp the game they are making. Each tarot card can interact differently with one-another as well, bringing the 'unexpected' aspect into the equation. However, once a plater chooses a card, they cannot reverse it. They must either try to 'fight against fate' to ge their game back to where it was, or accept it and create something totally new.
 
  ![](media/new.gif)
 
+(gif is a little small... I apologize)
  That's it for now!
