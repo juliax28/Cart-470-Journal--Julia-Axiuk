@@ -242,7 +242,9 @@ The idea I ahd behidn this was that this version of the program is less an actua
 
 Here is the link: https://drive.google.com/file/d/1NGHS_L8rXLW7ZzlaoarsQnPIfQdnC589/view?usp=sharing
 
-Here is the gif: ![](media/Tarot02.gif)
+Here is the gif: 
+
+![](media/Tarot02.gif)
 
 I hope to continue refining these ideas into something even more playable before the demo day, and to present the ideas to Pippin tomorrow to see whart his thoughts are. Overall though, I am quite happy with how different this idea is from what we originally came up with. 
 
