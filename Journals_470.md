@@ -237,8 +237,8 @@ Moreover, we also had a little reminder from Sabine that, as important as it is 
 ### More Tarot
 
 
-The team expressed that they liked the sort of high-concept tarot-card Idea I came up with, but suggested I try my best to leave behind the original UI we came up with, and instead dive deeper into the concept. So this si what I decided I would work on. Compeltely leaving aside the sliders, I made the main way to control what happens in the game solely based on the tarot cards. Everytime a player wants to alter a value, they must assign a random tarot card to it, and then watch how the tarot cards alters their game. If they don't like the result, they must go back and choose another tarot card.
-The idea I ahd behidn this was that this version of the program is less an actual 'game design' software, and more a way to brainstorm, offering the user what is hopefully intriguing material to use in their own projects.
+The team expressed that they liked the sort of high-concept tarot-card Idea I came up with, but suggested I try my best to leave behind the original UI we came up with, and instead dive deeper into the concept. So this is what I decided I would work on. Completely leaving aside the sliders, I made the main way to control what happens in the game solely based on the tarot cards. Everytime a player wants to alter a value, they must assign a random tarot card to it, and then watch how the tarot cards alters their game. If they don't like the result, they must go back and choose another tarot card.
+The idea I had with this version of the program is that it is less an actual 'game design' software, and more a way to brainstorm, offering the user what is hopefully intriguing material to use in their own projects.
 
 Here is the link: https://drive.google.com/file/d/1NGHS_L8rXLW7ZzlaoarsQnPIfQdnC589/view?usp=sharing
 
@@ -246,5 +246,5 @@ Here is the gif:
 
 ![](media/Tarot02.gif)
 
-I hope to continue refining these ideas into something even more playable before the demo day, and to present the ideas to Pippin tomorrow to see whart his thoughts are. Overall though, I am quite happy with how different this idea is from what we originally came up with. 
+I hope to continue refining these ideas into something even more playable before the demo day, and to present the ideas to Pippin tomorrow to see what his thoughts are. Overall though, I am quite happy with how different this idea is from what we originally came up with. 
 
