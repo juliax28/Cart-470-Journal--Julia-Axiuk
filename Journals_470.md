@@ -216,14 +216,14 @@ Finally... there's me!
 
 ## My Progress
 
- Personally, I focused on coming up with something that leaned into Pippin's want for something odd, and I ended up with a concept that was inspired by the idea of 'fate'. This concept starts the player off by getting handed 3 tarot cards. As they edit, they can choose to use these tarot cards, which each reveal a new editable variable, and warp the game they are making. Each tarot card can interact differently with one-another as well, bringing the 'unexpected' aspect into the equation. However, once a player chooses a card, they cannot reverse it. They must either try to 'fight against fate' to get their game back to where it was, or accept it and create something totally new.
+Personally, I focused on coming up with something that leaned into Pippin's want for something odd, and I ended up with a concept that was inspired by the idea of 'fate'. This concept starts the player off by getting handed 3 tarot cards. As they edit, they can choose to use these tarot cards, which each reveal a new editable variable, and warp the game they are making. Each tarot card can interact differently with one-another as well, bringing the 'unexpected' aspect into the equation. However, once a player chooses a card, they cannot reverse it. They must either try to 'fight against fate' to get their game back to where it was, or accept it and create something totally new.
 
- ![](media/new.gif)
+![](media/new.gif)
 
 (gif is a little small... I apologize. Here is the link to the video on Google Drive.
 
 https://drive.google.com/file/d/1hnBSRK4r-dMbEA5N5mOoLfWhs6Z-FWq7/view )
- That's it for now!
+That's it for now!
 
 ## Journal 09 2026-11-24
 
@@ -239,9 +239,10 @@ Moreover, we also had a little reminder from Sabine that, as important as it is 
 
 The team expressed that they liked the sort of high-concept tarot-card Idea I came up with, but suggested I try my best to leave behind the original UI we came up with, and instead dive deeper into the concept. So this si what I decided I would work on. Compeltely leaving aside the sliders, I made the main way to control what happens in the game solely based on the tarot cards. Everytime a player wants to alter a value, they must assign a random tarot card to it, and then watch how the tarot cards alters their game. If they don't like the result, they must go back and choose another tarot card.
 The idea I ahd behidn this was that this version of the program is less an actual 'game design' software, and more a way to brainstorm, offering the user what is hopefully intriguing material to use in their own projects.
- Here is the link: https://drive.google.com/file/d/1NGHS_L8rXLW7ZzlaoarsQnPIfQdnC589/view?usp=sharing
 
-Here is the gif: ![](media/tarot02.gif)
+Here is the link: https://drive.google.com/file/d/1NGHS_L8rXLW7ZzlaoarsQnPIfQdnC589/view?usp=sharing
+
+Here is the gif: ![](media/Tarot02.gif)
 
 I hope to continue refining these ideas into something even more playable before the demo day, and to present the ideas to Pippin tomorrow to see whart his thoughts are. Overall though, I am quite happy with how different this idea is from what we originally came up with. 
 
