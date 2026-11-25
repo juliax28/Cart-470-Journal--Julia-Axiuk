@@ -228,13 +228,13 @@ https://drive.google.com/file/d/1hnBSRK4r-dMbEA5N5mOoLfWhs6Z-FWq7/view )
  ## Journal 09 2026-11-24
 
 This journal may be slightly shorter, seeing that we are nearing the end of semester!
- ## Last week's discussion
+ ### Last week's discussion
 
  Last week our team had a productive conversation regarding where we want to continue with the direction of the project. We established that it is for sure that we are going to go the route of having many different prototypes to showcase, all of which will focus on different aspects of the theoretical final product. We confirmed that we particularly liked the idea of having 'alternative inputs', such as hand-motion, facial expression and eye-movement inputs. As well, the team seemed to enjoy the ideas that my prototype presented, and we decided it would be interesting if I explored this idea more deeply without tying myself as much as possible to the current UI layout.
 
  Moreover, we also had a little reminder from Sabine that, as important as it is to get feedback from Pippin, it is also important for us to take initiative and make certain decision for ourselves. With this in mind, we all established again that we would break off individually this week and each refine the ideas we liked in last week's prototypes.
 
- ## More Tarot
+ ### More Tarot
 
  The team expressed that they liked the sort of high-concept tarot-card Idea I came up with, but suggested I try my best to leave behind the original UI we came up with, and instead dive deeper into the concept. So this si what I decided I would work on. Compeltely leaving aside the sliders, I made the main way to control what happens in the game solely based on the tarot cards. Everytime a player wants to alter a value, they must assign a random tarot card to it, and then watch how the tarot cards alters their game. If they don't like the result, they must go back and choose another tarot card.
  The idea I ahd behidn this was that this version of the program is less an actual 'game design' software, and more a way to brainstorm, offering the user what is hopefully intriguing material to use in their own projects.
@@ -244,4 +244,3 @@ This journal may be slightly shorter, seeing that we are nearing the end of seme
 
  I hope to continue refining these ideas into something even more playable before the demo day, and to present the ideas to Pippin tomorrow to see whart his thoughts are. Overall though, I am quite happy with how different this idea is from what we originally came up with. 
 
- 
